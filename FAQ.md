@@ -14,7 +14,7 @@ No, the app will not send any network requests. Your data is completely processe
 
 ## How to get faster transfer speed?
 
-If you are using iPhone 15 Pro, you can use a USB 3 cable to get transfer speed of up to 500 MB/s.
+Use the highest specification cable compatible with your device, such as [Thunderbolt 4 (USB‑C) Pro Cable](https://www.apple.com/shop/product/MWP02AM/A/thunderbolt-4-usb%E2%80%91c-pro-cable-3-m).
 
 ## How can I submit a bug?
 
